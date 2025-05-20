@@ -13,7 +13,7 @@ export function Home(){
                     <section className="col-12 col-md-8 text-center">
                         <h3>CLASS ROOM APP</h3>
                         <p>
-                            Plataforma de gestión educativa
+                            Plataforma de Gestión educativa
                         </p>
                         <hr />
                         <img src="../../../../src/assets/img/estudiantes.jpg" 
